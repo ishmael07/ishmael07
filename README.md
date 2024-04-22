@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="your-profile-photo-url" width="200" height="200" alt="Profile Photo" />
-  <h3>Your Name</h3>
-  <p><em>Software Engineer / Computer Science Researcher</em></p>
+  <h2>Your Name</h2>
+  <p><em>High School Student @ NEST+m // Engineer // Student Researcher</em></p>
 </div>
 
 <p align="center">
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/ishmael-l-647178282">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-url">
@@ -22,10 +21,9 @@
 
 ## 👩‍💻 About Me
 
-- 📡 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: !Linkedin Badge
+- 📡 Currently a High School Student, but I'm also part of many college-level programs & immersed in technical programming projects & educational research!
+- ⚡ Interested In The Fields Of: Computer Science, Software & Hardware, Mechanical/Electrical Engineering, Robotics, and AI/ML!
+- 🌱 Exploring Physics, Writing, Graphic Design, and Travelling in My Free Time!
 
 ## 🔥 My Stats
 
@@ -38,19 +36,9 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://replit.com/logo/replit.png" alt="replit" width="45" height="45"/>
+  <img src="https://cdn.rawgit.com/arduino/arduino-logo/master/icon-50.png" alt="arduino" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="javascript" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="htmlcss" width="45" height="45"/>
 </p>
-
-## 🎮 Fun Stuff
-
-<div align="center">
-  <img src="https://github-readme-gaming.vercel.app/api?username=your-github-username&theme=dracula" alt="GitHub Gaming" />
-</div>
-
-## 📜 Blog Posts
-
-<div align="center">
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-</div>
