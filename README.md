@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ## 👩‍💻 About Me
 
 - 📡 Currently a High School Student, but I'm also part of many college-level programs & immersed in technical programming projects & educational research!
@@ -36,8 +32,10 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://replit.com/logo/replit.png" alt="replit" width="45" height="45"/>
-  <img src="https://cdn.rawgit.com/arduino/arduino-logo/master/icon-50.png" alt="arduino" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original-wordmark.svg" alt="Replit" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" alt="Slack" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="45" height="45"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="javascript" width="45" height="45"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="java" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="htmlcss" width="45" height="45"/>
