@@ -35,7 +35,7 @@
 <h2> :fire: My Stats :</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&background=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishmael07&theme=dark&background=000000" alt="GitHub Streak" />
 </div>
 
 <div align="center">
