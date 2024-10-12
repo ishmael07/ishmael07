@@ -5,11 +5,11 @@
 
 <div align="center">
     <a href="https://github.com/Ishmael07">
-    <img height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmael07&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmael07&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
   </a>
   <a href="https://github.com/Ishmael07">
-    <img height="50em" src="https://github-readme-streak-stats.herokuapp.com?user=ishmael07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com?user=ishmael07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
