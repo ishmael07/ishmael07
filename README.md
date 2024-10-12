@@ -1,4 +1,4 @@
-<h1 align="center">ishmael</h1>
+<h1 align="center">ishmael :)</h1>
 <h3 align="center">hs student | student researcher | engineer</h3>
 
 ---
