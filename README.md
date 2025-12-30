@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>Ishmael :)</h1>
-  <h3>High School Student | Student Researcher | Engineer</h3>
+  <h1>ishmael</h1>
+  <h3>Engineer | Programmer | Student Researcher</h3>
 </p>
 
 ---
