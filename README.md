@@ -1,43 +1,59 @@
+<h1 align="center">ishmael :)</h1>
+
+<h3 align="center">hs student | student researcher | engineer</h3>
+
+
+
+---
+
+
+
 <div align="center">
 
-# ⛩️ Ishmael
-` HS Student ` • ` Student Researcher ` • ` Engineer `
+    <a href="https://github.com/Ishmael07">
 
-[![Instagram](https://img.shields.io/badge/Instagram-D81B1B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishmxael)
-[![YouTube](https://img.shields.io/badge/YouTube-D81B1B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IshmaelPlayz)
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmael07&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
-<br/>
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=990000&height=120&section=header&text=Ishmael07&fontSize=70&animation=fadeIn" width="100%" />
+  </a>
 
-<br/>
+  <a href="https://github.com/Ishmael07">
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishmael07&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="Ishmael's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmael07&layout=compact&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</p>
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=ishmael07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=ishmael07&theme=dark&fire=ff0000&currStreakNum=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,cpp,cs,latex,git,github,vscode,raspberrypi&theme=dark" />
-</p>
-
----
-
-### 🏆 Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishmael07&theme=darkhub&no-bg=true&column=4&margin-w=15" alt="Trophies" />
-</p>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=section&section=footer&color=990000&height=40" width="100%" />
+  </a>
 
 </div>
+
+
+
+---
+
+
+
+
+
+<h3 align="center">socials</h3>
+
+<p align="center">
+
+  <a href="https://github.com/Ishmael07" target="_blank">
+
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+
+  </a>
+
+  <a href="https://www.instagram.com/ishmxael" target="_blank">
+
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  </a>
+
+  <a href="https://www.youtube.com/@IshmaelPlayz" target="_blank">
+
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+
+  </a>
+
+</p>
