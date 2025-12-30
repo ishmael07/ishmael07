@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ishmael</h1>
+  <h1>ishmael :)</h1>
   <h3>Engineer | Programmer | Student Researcher</h3>
 </div>
 
